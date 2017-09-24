@@ -26,6 +26,7 @@ public class ColorWheel {
             "#b7c0c7",  // light gray
             "#8b4513", //bronze
             "#ddca8b"  // gold
+            "#c24545" // ?
     };
 
 
